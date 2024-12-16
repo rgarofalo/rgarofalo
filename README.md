@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
-[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo&theme=onedark&no-frame=true&title=-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💡 About Me:  
 **Technologist with a Passion for Innovation**  
@@ -34,5 +34,3 @@ I’m excited about working on projects that combine technological innovation wi
 I strongly believe in the power of teamwork and collaboration to overcome daily challenges and achieve extraordinary results.  
 
 Thank you for visiting my profile! Let's connect and create something amazing together.  
-
-![](./profile-3d-contrib/profile-green-animate.svg)
