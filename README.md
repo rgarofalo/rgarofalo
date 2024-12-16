@@ -1,4 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
+[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💡 About Me:  
 **Technologist with a Passion for Innovation**  
 I love exploring cutting-edge technologies, developing innovative solutions, and tackling new challenges with the goal of expanding technological horizons.  
@@ -12,7 +14,8 @@ From modern front-end frameworks to server-side architectures, I enjoy diving in
 **Innovation-Oriented Mindset**  
 I’m always eager to learn and optimize, approaching new projects with enthusiasm and a spirit of innovation.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ## 📚 Core Skills  
 
