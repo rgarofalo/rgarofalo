@@ -12,37 +12,21 @@ From modern front-end frameworks to server-side architectures, I enjoy diving in
 **Innovation-Oriented Mindset**  
 I’m always eager to learn and optimize, approaching new projects with enthusiasm and a spirit of innovation.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rgarofalo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📚 Core Skills  
 
-### **Languages:**  
-- Python  
-- C#  
-- HTML5, CSS3  
-- JavaScript  
+### **💻 Languages:**  
+🐍 Python | 🛠️ C# | 🌐 HTML5, CSS3 | ✨ JavaScript  
 
-### **Frameworks & Technologies:**  
-- Django  
-- ASP.NET  
-- REST API  
-- Docker  
-- Keycloak  
-- Odoo  
-- Bootstrap, JQuery  
+### **🖥️ Frameworks & Technologies:**  
+🌟 Django | 🏗️ ASP.NET | 🔗 REST API | 🐳 Docker | 🔒 Keycloak | 📦 Odoo | 🎨 Bootstrap, JQuery 
 
-### **Databases:**  
-- MySQL/MariaDB  
-- PostgreSQL  
-- Firebase  
-- SQLite  
+### **🗄️ Databases:**  
+🐬 MySQL/MariaDB | 🐘 PostgreSQL |🔥 Firebase | 📁 SQLite  
 
-### **Tools & Platforms:**  
-- Git  
-- Visual Studio Code, Visual Studio  
-- Unity  
-- Android Studio  
-
+### **🛠️ Tools & Platforms:**  
+🌲 Git | ✏️ Visual Studio Code, Visual Studio  | 🎮 Unity  | 🤖 Android Studio  
 ---
 
 ## 🚀 Future Goals & Vision  
