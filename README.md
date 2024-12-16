@@ -16,17 +16,11 @@ I’m always eager to learn and optimize, approaching new projects with enthusia
 
 ## 📚 Core Skills  
 
-### **💻 Languages:**  
-🐍 Python | 🛠️ C# | 🌐 HTML5, CSS3 | ✨ JavaScript  
+**💻 Languages:** 🐍 Python | 🛠️ C# | 🌐 HTML5, CSS3 | ✨ JavaScript  
+**🖥️ Frameworks & Technologies:**  🌟 Django | 🏗️ ASP.NET | 🔗 REST API | 🐳 Docker | 🔒 Keycloak | 📦 Odoo | 🎨 Bootstrap, JQuery 
+**🗄️ Databases:** 🐬 MySQL/MariaDB | 🐘 PostgreSQL |🔥 Firebase | 📁 SQLite  
+**🛠️ Tools & Platforms:** 🌲 Git | ✏️ Visual Studio Code, Visual Studio  | 🎮 Unity  | 🤖 Android Studio  
 
-### **🖥️ Frameworks & Technologies:**  
-🌟 Django | 🏗️ ASP.NET | 🔗 REST API | 🐳 Docker | 🔒 Keycloak | 📦 Odoo | 🎨 Bootstrap, JQuery 
-
-### **🗄️ Databases:**  
-🐬 MySQL/MariaDB | 🐘 PostgreSQL |🔥 Firebase | 📁 SQLite  
-
-### **🛠️ Tools & Platforms:**  
-🌲 Git | ✏️ Visual Studio Code, Visual Studio  | 🎮 Unity  | 🤖 Android Studio  
 ---
 
 ## 🚀 Future Goals & Vision  
