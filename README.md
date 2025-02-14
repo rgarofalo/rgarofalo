@@ -3,8 +3,7 @@
 
 ## 💡 About Me:  
 **Technologist with a Passion for Innovation**  
-I love exploring cutting-edge technologies, developing innovative solutions, and tackling new challenges with the goal of expanding technological horizons.  
-
+I love to explore new technologies, to develop innovative solutions and to take on new challenges with the aim of expanding my knowledge.
 
 
 ![](./profile-3d-contrib/profile-night-view.svg)
